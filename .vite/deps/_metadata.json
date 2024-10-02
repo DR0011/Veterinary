@@ -1,0 +1,52 @@
+{
+  "hash": "dcb8840b",
+  "configHash": "8eaa1e15",
+  "lockfileHash": "88a1e57f",
+  "browserHash": "f837c204",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "11cd2c1d",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "c843e48f",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "19de52f9",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "049772f1",
+      "needsInterop": true
+    },
+    "react-icons/fa": {
+      "src": "../../react-icons/fa/index.mjs",
+      "file": "react-icons_fa.js",
+      "fileHash": "1dd7551b",
+      "needsInterop": false
+    },
+    "react-icons/md": {
+      "src": "../../react-icons/md/index.mjs",
+      "file": "react-icons_md.js",
+      "fileHash": "124c8c10",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-W6NUHJJG": {
+      "file": "chunk-W6NUHJJG.js"
+    },
+    "chunk-QI53LHDY": {
+      "file": "chunk-QI53LHDY.js"
+    }
+  }
+}
